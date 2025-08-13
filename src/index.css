@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Optional theme tweaks */
+@theme {
+  --font-sans: ui-sans-serif, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji";
+}

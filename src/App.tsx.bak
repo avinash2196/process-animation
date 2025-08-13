@@ -1,0 +1,12 @@
+import React from "react";
+import FlowSwitcher from "./FlowSwitcher";
+
+export default function App() {
+  return (
+    <div className="min-h-screen bg-slate-100 flex items-center justify-center p-8">
+      <div className="w-[960px] max-w-full">
+        <FlowSwitcher />
+      </div>
+    </div>
+  );
+}
